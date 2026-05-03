@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك.. قلبي معاك..
+> نور عيوني في سماك
+> روحي تسأل عن هواك
+> وحدي من غيرك هلاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

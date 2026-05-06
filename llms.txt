@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wahdy-men-gherak/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Wahdy Men Gherak](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Wahdy Men Gherak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wahdy Men Gherak
+
+This log tracks the cryptographic history and versioning for the song **Wahdy Men Gherak** (wahdy-men-gherak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:59:19.561851 | `v1` | `3b1c021dafab95e3803cd1cec56f2508599b88dedd0e086dbdebd97e7b77ed9a` | `ae5eccc7c17ef9d9176870a58af9480def98c6a7fb33b5b0cd5239ab5143ef62` | `2026-05-08_wahdy-men-gherak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
